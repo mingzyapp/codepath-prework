@@ -4,7 +4,7 @@
 
 Submitted by: **Shih Tung Yapp**
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -28,13 +28,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/B79nO9f.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I tried adding settings controls for the app but failed. As I added navigation control and a second View Controller the screen turn blank.
+I removed all the changes I made to app but it did not work so I had to redo the prework from start without any bonus.
 
 ## License
 
