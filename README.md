@@ -40,7 +40,7 @@ I removed all the changes I made to app but it did not work so I had to redo the
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Shih Tung Yapp]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
